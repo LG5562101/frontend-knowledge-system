@@ -74,4 +74,4 @@ const y = cloneDeep(x)
 
 y.b.age = 4
 y.arr[0] = 10
-console.log(x, y)
+console.log(x, y, 10)
